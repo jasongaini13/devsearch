@@ -95,6 +95,25 @@ This project is a web application where users can register, create a profile, ad
     - Browse through user profiles and projects in the respective sections.
 
 
+## OUTPUT
+![Screenshot 2024-04-15 185552](https://github.com/jasongaini13/devsearch/assets/143315723/757b6d8e-8611-472f-a9a0-a721b7d68b48)
+
+![Screenshot 2024-04-15 185612](https://github.com/jasongaini13/devsearch/assets/143315723/e9708cde-64cd-4aa6-b27e-cadc803bade7)
+
+![Screenshot 2024-04-15 185814](https://github.com/jasongaini13/devsearch/assets/143315723/95f6098f-4735-4d43-b738-60cff5aeea45)
+
+![Screenshot 2024-04-15 185858](https://github.com/jasongaini13/devsearch/assets/143315723/522b5aff-f012-4892-ac01-979d58bae113)
+
+![Screenshot 2024-04-15 185915](https://github.com/jasongaini13/devsearch/assets/143315723/bd55fea8-2034-4947-b429-343bd986504c)
+
+![Screenshot 2024-04-15 185940](https://github.com/jasongaini13/devsearch/assets/143315723/d55b8324-8d26-40d3-b344-44e4342f6351)
+
+![Screenshot 2024-04-15 185959](https://github.com/jasongaini13/devsearch/assets/143315723/3ba50ce1-13f0-415a-b920-5e09871e15a4)
+
+![Screenshot 2024-04-15 190045](https://github.com/jasongaini13/devsearch/assets/143315723/badf9687-1fed-402f-9f37-6734bbcea9e0)
+
+
+
 ## Contact
 
 For any questions or feedback, please contact us at (mailto:jasonjason7328@gmail.com).
